@@ -17,7 +17,7 @@ Many policies like FIFO, MRU, and LRU exist for buffer replacement. However, LRU
 
 The clock algorithm involves a circular list of frames with an associated reference bit (refbit). The algorithm uses a clock hand that advances and checks the refbit of frames. The algorithm's execution details are illustrated in the provided figure.
 
-![Clock Algorithm](path_to_image_here)
+
 
 ## Structure of the Buffer Manager
 
