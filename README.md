@@ -1,4 +1,4 @@
-# CS 564 - Project Stage 3: The Buffer Manager
+The Buffer Manager
 
 ## Introduction
 
